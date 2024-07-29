@@ -33,7 +33,7 @@ Installation
 -----
 
 ```bash
-composer require glushkovds/php-smpp "^0.5"
+composer require cluvit/php-smpp
 ```
 
 Basic usage example
