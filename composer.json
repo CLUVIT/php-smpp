@@ -1,5 +1,5 @@
 {
-  "name": "glushkovds/php-smpp",
+  "name": "cluvit/php-smpp",
   "description": "Implementation SMPP v3.4 protocol. Includes sending and listening USSD.",
   "keywords": [
     "smpp",
