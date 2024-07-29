@@ -56,7 +56,7 @@ class Helper
      */
     public static function hasUTFChars($message)
     {
-        return (bool)preg_match('/[А-Яа-яЁё]/u', $message);
+        return mb_detect_encoding($message) !== 'ASCII';
     }
 
 }
