@@ -33,7 +33,7 @@ Installation
 -----
 
 ```bash
-composer require cluvit/php-smpp
+composer require cluvit/php-smpp:dev-master
 ```
 
 Basic usage example
